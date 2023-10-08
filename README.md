@@ -1,9 +1,11 @@
 # HomeSales
 
 **Description**
+
 In this challenge, SparkSQL was used to determine key metrics about home sales data. Then, Spark was used to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
 
 **Steps to Complete**
+
 A. Imported the necessary PySpark SQL functions.
 
 B. Read the home_sales_revised.csv data in the starter code into a Spark DataFrame.
